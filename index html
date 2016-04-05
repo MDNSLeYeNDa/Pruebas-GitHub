@@ -1,3 +1,5 @@
 <html>
-  <h1>Esta es mi pagina de index</h1>
+  <head>
+  <title><h1>Esta es mi pagina de index</h1></title>
+  </head>
 </html>
